@@ -82,7 +82,7 @@ const Work = () => {
                 <img
                   src={selectedProject.image}
                   alt={selectedProject.title}
-                  className="lg:w-full w-[80%] h-80 object-contain rounded-xl shadow-lg"
+                  className="lg:w-full w-[90%] h-80 object-contain rounded-xl shadow-lg"
                 />
               </div>
               <div className="lg:p-8 p-6">

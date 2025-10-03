@@ -39,13 +39,13 @@ const Experience = () => {
               } sm:ml-44 sm:mr-44 ml-8 transform transition-transform duration-300 hover:scale-105`}
             >
               {/* Flex container for image and text */}
-              <div className="items-center space-x-6">
+              <div className="space-x-1">
                 {/* Company Logo/Image */}
-                <div className="w-full h-24 bg-gray-900 rounded-lg overflow-hidden">
+                 <div className="w-24 sm:w-32 md:w-40 h-16 sm:h-20 md:h-24 bg-gray-900 rounded-lg overflow-hidden">
                   <img
                     src={experience.img}
                     alt={experience.company}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-contain"
                   />
                 </div>
 
