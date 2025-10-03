@@ -31,7 +31,7 @@ import bseb from "./assets/education_logo/bseb.png";
 
 // Project Section Logo's
 import food from "./assets/work_logo/food.png";
-import whatsApp from "./assets/work_logo/whatsApp.png";
+import whatsApp from "./assets/work_logo/whatsapp.png";
 import exam from "./assets/work_logo/examTestPortal.png";
 import dShare from "./assets/work_logo/dShare.jpg";
 
