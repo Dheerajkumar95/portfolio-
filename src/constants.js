@@ -31,7 +31,7 @@ import bseb from "./assets/education_logo/bseb.png";
 
 // Project Section Logo's
 import food from "./assets/work_logo/food.png";
-import WhatsApp from "./assets/work_logo/WhatsApp.png";
+import whatsApp from "./assets/work_logo/whatsApp.png";
 import exam from "./assets/work_logo/examTestPortal.png";
 import dShare from "./assets/work_logo/dShare.jpg";
 
@@ -149,7 +149,7 @@ export const projects = [
     title: "WhatsApp Clone",
     description:
       "A real-time chat application inspired by WhatsApp, featuring secure login, one-to-one messaging, media and text message support, and a chat UI built with React. User data and messages are stored in MongoDB for persistence.",
-    image: WhatsApp,
+    image: whatsApp,
     tags: [
       "HTML",
       "CSS",
