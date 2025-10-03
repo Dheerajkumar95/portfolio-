@@ -30,7 +30,7 @@ import tit from "./assets/education_logo/tit.png";
 import bseb from "./assets/education_logo/bseb.png";
 
 // Project Section Logo's
-import foodLogo from "./assets/work_logo/food.png";
+import food from "./assets/work_logo/food.png";
 import WhatsApp from "./assets/work_logo/WhatsApp.png";
 import exam from "./assets/work_logo/examTestPortal.png";
 import dShare from "./assets/work_logo/dShare.jpg";
@@ -131,7 +131,7 @@ export const projects = [
     title: "Food Ordering Platform",
     description:
       "A Food ordering platform where users can search and select multiple foods, view them in the cart, and place orders. Additional features include creating a new account, login, adding addresses, and notifications for newly added food items.",
-    image: foodLogo, // yaha apna project ka logo ya default image
+    image: food, // yaha apna project ka logo ya default image
     tags: [
       "HTML",
       "CSS",
@@ -149,7 +149,7 @@ export const projects = [
     title: "WhatsApp Clone",
     description:
       "A real-time chat application inspired by WhatsApp, featuring secure login, one-to-one messaging, media and text message support, and a chat UI built with React. User data and messages are stored in MongoDB for persistence.",
-    image: WhatsApp, // yaha apna project ka logo ya default image
+    image: WhatsApp,
     tags: [
       "HTML",
       "CSS",
