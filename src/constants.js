@@ -24,6 +24,7 @@ import vercelLogo from "./assets/tech_logo/vercel.png";
 import render from "./assets/tech_logo/render.png";
 // Experience Section Logo's
 import wyreflowlogo from "./assets/company_logo/wyreflowlogo.png";
+import sk from "./assets/company_logo/sk.png";
 
 // Education Section Logo's
 import tit from "./assets/education_logo/tit.png";
@@ -87,11 +88,28 @@ export const experiences = [
   {
     id: 0,
     img: wyreflowlogo,
-    role: "Frontend Intern",
+    role: "Frontend Developer Intern",
     company: "Wyreflow",
     date: "December 2024 - April 2025",
     desc: "Developed a Exam Test-Portal Website. Implemented responsive designs with CSS & JavaScript.",
     skills: ["HTML", "CSS", "Javascript"],
+  },
+  {
+    id: 1,
+    img: sk,
+    role: "MERN Stack Developer Intern",
+    company: "Wyreflow",
+    date: "May 2025 - October 2025",
+    desc: "Developed a CRM application using React, Tailwind CSS, Node.js, Express.js, and MongoDB. Built responsive, modern UI components with Tailwind CSS and optimized data flow with REST APIs.",
+    skills: [
+      "HTML",
+      "CSS",
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+    ],
   },
 ];
 
