@@ -89,7 +89,7 @@ export const experiences = [
     id: 0,
     img: wyreflowlogo,
     role: "Frontend Developer Intern",
-    company: "Wyreflow",
+    company: "Wyreflow Technology",
     date: "December 2024 - April 2025",
     desc: "Developed a Exam Test-Portal Website. Implemented responsive designs with CSS & JavaScript.",
     skills: ["HTML", "CSS", "Javascript"],
@@ -98,7 +98,7 @@ export const experiences = [
     id: 1,
     img: sk,
     role: "MERN Stack Developer Intern",
-    company: "Wyreflow",
+    company: "Shivanshi Technology",
     date: "May 2025 - October 2025",
     desc: "Developed a CRM application using React, Tailwind CSS, Node.js, Express.js, and MongoDB. Built responsive, modern UI components with Tailwind CSS and optimized data flow with REST APIs.",
     skills: [
